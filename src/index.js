@@ -1,4 +1,2 @@
-const arr = [1, 2, 3, 4];
-
-const es6 = () => console.log(...arr);
-window.es6 = es6;
+import App from "./App";
+import style from "./main.css";
